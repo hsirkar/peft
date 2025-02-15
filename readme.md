@@ -10,4 +10,4 @@
 
 1. Activate it: `source .venv/bin/activate`
 
-1. Install required stuff: `pip install cryptography torch transformers peft datasets ipykernel`
+1. Install required stuff: `pip install cryptography torch transformers peft datasets ipykernel python-dotenv`
